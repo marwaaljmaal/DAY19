@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    justify-content: space-around;
+    
+}
+img{
+    width: 30px;
+}
+.one{
+    background-color: rgb(133, 238, 238);
+    height: 500px;
+    
+}
+.two{
+    background-color: rgb(11, 15, 15);
+    height: 200px;
+    
+}
+.flex1{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
